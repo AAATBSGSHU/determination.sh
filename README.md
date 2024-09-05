@@ -15,4 +15,4 @@ Then go into your .zshrc or .bashrc and add in an alias for the script, an examp
 alias update='sudo pacman -Syu'
 
 ```
-##### you can use ```yay``` or ```paru``` instead of ```pacman``` if you use an AUR helper
+###### you can use ```yay``` or ```paru``` instead of ```pacman``` if you use an AUR helper
