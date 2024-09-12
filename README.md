@@ -12,7 +12,7 @@ ezsh location/to/your/determination.sh/determination-update.sh
 ```
 Then go into your .zshrc or .bashrc and add in an alias for the script, an example for updating the system on Arch
 ```
-alias update='sudo pacman -Syu'
+alias update='sudo pacman -Syu && determination-update.sh'
 
 ```
 ###### you can use ```yay``` or ```paru``` instead of ```pacman``` if you use an AUR helper
